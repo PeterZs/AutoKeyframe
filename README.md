@@ -141,7 +141,7 @@ If you find this work useful, please cite:
 ```bibtex
 @inproceedings{zheng2025autokeyframe,
   title={AutoKeyframe: Autoregressive Keyframe Generation for Human Motion Synthesis and Editing},
-  author={Zheng, Yicong and Chen, Kecheng and Fang, Qiang and Lin, Junhao and Liao, Jingbo and Zhang, Jian},
+  author={Zheng, Bowen and Chen, Ke and Yao, Yuxin and Zeng, Zijiao and Jiang, Xinwei and Wang, He and Lasenby, Joan and Jin, Xiaogang},
   booktitle={Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers '25},
   series = {SIGGRAPH Conference Papers '25},
   year={2025},
